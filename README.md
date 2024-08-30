@@ -1,4 +1,4 @@
-![Banner](https://your-banner-url.com)
+
 
 ### Hi there, I'm Shivam 👋
 
