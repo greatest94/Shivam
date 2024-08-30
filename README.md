@@ -1,4 +1,4 @@
-
+![Banner](Banner.png)
 
 ### Hi there, I'm Shivam 👋
 
