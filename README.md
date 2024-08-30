@@ -22,7 +22,7 @@ I'm a passionate infrastructure automation engineer with a strong focus on makin
 - [**Automation Suite**](https://github.com/Shivam/automation-suite) - A comprehensive suite of automation scripts for cloud infrastructure.
 - [**Automation in Linux**](https://github.com/greatest94/AutomationInLinux/edit/main/README.md) - Information on the resources and also way to crack interview with best package available in the market
 - [**InfraWatch**](https://github.com/Shivam/infrapipeline) - Automated infrastructure monitoring and alerting.
-
+- [**Python Course**](https://github.com/greatest94/python_course_Shivam) My journey to learn Python from scratch
 ---
 
 ## 📫 **Connect with Me**
